@@ -1,0 +1,9 @@
+{
+  "delay": "5",
+  "source_folder": "C:\\demo\\hostapc",
+  "source_copy_folder": "C:\\demo\\hostbpc",
+  "destin_folder": "C:\\demo\\hostpc",
+  "destin_copy_folder": "C:\\demo\\hostcpc",
+  "parsing_table": "table.csv",
+  "log_file": "log.txt"
+}
